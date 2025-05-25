@@ -1,0 +1,7 @@
+paths:
+  train_bin: /data/c-cychou/tokenized_documents.npy
+  valid_bin: /data/paloma/tokenized_paloma_c4_100_domains_validation.bin
+  model_output: /data/c-cychou/model
+training:
+  wandb_entity: babychousr-stanford-university
+  wandb_project: cs336-data
